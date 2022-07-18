@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndoZR
 - 👀 I’m interested in programming, web developer, and cyber security
-- 🌱 I’m currently learning python language, html, css, and javascript
-- 💞️ I’m looking to collaborate on making a website
+- 🌱 I’m currently learning python language, html, css, php, and mysql
+- 💞️ I’m looking a team to collaborate on making a website or other project
 - 📫 reach me on Instagram @mr_andozr
 
 <!---
