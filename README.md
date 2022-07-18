@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndoZR
+- 👋 Hi, I’m Ando Zamhariro Royan, programmer.
 - 👀 I’m interested in programming, web developer, and cyber security
 - 🌱 I’m currently learning python language, html, css, php, and mysql
 - 💞️ I’m looking a team to collaborate on making a website or other project
