@@ -1,3 +1,4 @@
+[![MasterHead align="center"](https://tenor.com/bQA0z.gif)](https://andozr.io)
 <h1 align="center">Hi 👋, I'm Ando Zamhariro Royan</h1>
 <h3 align="center">A passionate programmer from University of Jember</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
